@@ -1,5 +1,5 @@
 # MathematicalFormula
-Console Application that calculate:
+Console Application that:
 
 Area and circumference of circle:
 calculates both the area and the circumference of a circle given the radius 
